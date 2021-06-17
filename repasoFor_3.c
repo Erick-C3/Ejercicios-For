@@ -6,7 +6,7 @@
 	con las cuales tendremos 2 tipos: venta con descuento y venta normal
 	
 	Requisitos: 
-		• debe permitirse al usuario indicar si posee un descuent o no y dependiendo de
+		• debe permitirse al usuario indicar si posee un descuento o no y dependiendo de
 		  la informacion se procedera a realizar la venta correspondiente
 
 		• la cantidad de productos totales son ingresados por el usuario
